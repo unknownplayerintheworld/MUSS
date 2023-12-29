@@ -1,6 +1,8 @@
 # Project Name: Android Music Streaming Service
 
 ## Main Features :
+- Default User: chuduchung
+- Default Password: duchung123
 
 - [ ] Login, Register  
        <img src="https://i.imgur.com/oyajasK.png" width="200" height="400">
